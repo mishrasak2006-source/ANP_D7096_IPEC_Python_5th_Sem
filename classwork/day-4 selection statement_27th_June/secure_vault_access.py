@@ -24,8 +24,6 @@ code = int(input("Enter Security Code : "))
 # checking security code
 if(code == 7890):
     print("Access Granted to the Vault.")
-else:
-    print("Access Denied!")
 
 #----------------------------------------------------
 
